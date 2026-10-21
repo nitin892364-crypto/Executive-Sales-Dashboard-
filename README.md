@@ -47,7 +47,7 @@ SUM(Sales_Data[Units Sold])
 
 Total Orders =
 DISTINCTCOUNT(Sales_Data[ID])
-
+```
 
 ## Calculated Columns
 
@@ -72,7 +72,17 @@ Month_Name = FORMAT(Date_Table[Date], "MMMM")
 ```dax
 Day_Name = FORMAT(Date_Table[Date], "DDDD")
 ```
+## Tools Used
 
+- Microsoft Power BI Desktop
+- DAX (Data Analysis Expressions)
+- GitHub
+
+## Project Files
+
+- `Power BI Executive Sales Dashboard Project.pdf` — dashboard preview
+- `Calculated Column.xlsx` — calculated column formulas
+- `Measure Dax.xlsx` — DAX measure formulas
 
 
 
