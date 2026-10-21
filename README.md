@@ -9,7 +9,7 @@ An interactive Power BI dashboard for exploring sales performance across time, p
 
 The dashboard presents key sales KPIs and breakdowns in one executive view. Add a screenshot of your dashboard to this repository and update the path below:
 
-![Executive Sales Dashboard](images/executive-sales-dashboard.png)
+![Executive Sales Dashboard](<Dashboard Image.png>)
 
 ## Key Metrics
 
